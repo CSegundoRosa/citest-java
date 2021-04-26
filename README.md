@@ -26,3 +26,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 En lugar de ezequieljsosa usar el repo de su cuenta en dockerhub
+
+https://docs.travis-ci.com/user/status-images/
+
+Alumna: Constanza Segundo Rosa
+```
+Estoy haciendo una modificacion
+para hacer el push
+```
