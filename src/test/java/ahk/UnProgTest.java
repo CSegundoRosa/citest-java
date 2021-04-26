@@ -6,6 +6,6 @@ public class UnProgTest {
     @Test
     public void testHacerAlgo(){
         UnProg up = new UnProg();
-        Assert.assertEquals(4,up.hacerAlgo(2));
+        Assert.assertEquals(6,up.hacerAlgo(2));
     }
 }
