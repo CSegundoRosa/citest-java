@@ -3,7 +3,7 @@ package ar.edu.ahk;
 public class UnProg {
 
     public int hacerAlgo(int unNum){
-        return unNum * 3;
+        return unNum * 4;
     }
 
     public static void main(String[] args){
